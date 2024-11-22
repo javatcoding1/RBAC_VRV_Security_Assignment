@@ -69,26 +69,10 @@ A modern, secure, and user-friendly Role-Based Access Control (RBAC) dashboard b
 
 1. Clone the repository
 
-2. Install dependencies:
-   
-npm install
+2. Install dependencies:npm install
 
-4. Start the development server:
+4. Start the development server:npm run dev
 
-npm run dev
-
-
-## Project Structure
-
-src/
-├── components/          # Reusable React components
-│   ├── forms/           # Form elements and logic
-│   ├── tables/          # Table display components
-│   └── navigation/      # Sidebar and navbar
-├── store/               # Global state management
-├── types/               # TypeScript interfaces and types
-├── hooks/               # Custom React hooks
-└── data/                # Mock and static data
 
 
 ## Best Practices
